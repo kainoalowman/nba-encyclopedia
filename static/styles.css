@@ -1,0 +1,27 @@
+#title{
+    margin: 0 auto;
+    width: 600px;
+    text-shadow:
+    -1px -1px 0 #FFA500,
+    1px -1px 0 #FFA500,
+    -1px 1px 0 #FFA500,
+    3px 3px 0 #FFA500;
+
+}
+
+.container{
+    margin: 0 auto;
+    width: 300px;
+    line-height: 40px;
+    background-color: #FFD6A8;
+    opacity: 0.88;
+    text-align: center;
+}
+
+.link{
+    color: blue;
+}
+/* Create margin bewteen top and div */
+div, a{
+    margin-top: 10px
+}
