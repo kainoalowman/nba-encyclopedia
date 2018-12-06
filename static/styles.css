@@ -25,3 +25,14 @@
 div, a{
     margin-top: 10px
 }
+
+#info{
+    height: 100%;
+    vertical-align: middle;
+    text-shadow:
+    -1px -1px 0 #FFA500,
+    1px -1px 0 #FFA500,
+    -1px 1px 0 #FFA500,
+    3px 3px 0 #FFA500;
+}
+
