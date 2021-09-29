@@ -45,7 +45,7 @@ natsort==5.4.1
 nba-api==1.0.6
 nba-py==0.1.1a2
 nbformat==4.4.0
-nltk==3.3
+nltk==3.6.3
 oauthlib==2.1.0
 passlib==1.7.1
 pdfrw==0.4
